@@ -1,2 +1,2 @@
 # bootcamp_portfolio
-[Excel Pivot Table](excel_pivot_table.md)
+![Excel Pivot Table](images/excel_pivot_table.png)
