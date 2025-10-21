@@ -1,2 +1,2 @@
 # bootcamp_portfolio
-[Excel Pivot Table](excel_pivot_table.png.png)
+[Excel Pivot Table](excel_pivot_table.md)
