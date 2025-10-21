@@ -18,3 +18,8 @@ This repository contains a Power BI dashboard designed to track, analyze, and vi
 
 **Summary:**
 This repository documents and explores the management of non-relational data using Microsoft Azure Storage Accounts, specifically focusing on Blob Storage Containers. The project highlights best practices for data organization, security, and access within the Azure ecosystem.
+
+![SQL workbench](images/SQL_workbench.png)
+
+**Summary:**
+This repository contains SQL scripts and documentation related to a database query project focused on analyzing global demographic data. The primary goal of this script is to identify and rank the largest capital cities by population across various countries.
