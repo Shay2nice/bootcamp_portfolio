@@ -23,3 +23,9 @@ This repository documents and explores the management of non-relational data usi
 
 **Summary:**
 This repository contains SQL scripts and documentation related to a database query project focused on analyzing global demographic data. The primary goal of this script is to identify and rank the largest capital cities by population across various countries.
+
+![python notebook](images/python_notebook.png)
+
+**Summary:**
+This repository houses a Jupyter Notebook or Python script demonstrating key data manipulation and cleaning techniques using the Pandas library. The project focuses on preparing a dataset of global economic indicators by calculating an average across multiple sources, a common step in data science workflows.
+
