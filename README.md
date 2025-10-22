@@ -20,33 +20,83 @@ This portfolio confirms a versatile and practical skill set for driving data-inf
 
 
 
+## 🎓 Data Science Bootcamp Project Portfolio
+
+---
+
+This repository documents the key projects completed during my intensive data science bootcamp, showcasing proficiency across the entire data lifecycle using industry-standard tools.
+
+### 1. Excel Sales Performance Pivot Table
+
 ![Excel Pivot Table](images/excel_pivot_table.png)
 
 **Summary:**
-This pivot table summarizes sales preformances by region and product category, showing total revenue, average order value, and growth trends.
+* This pivot table summarizes **sales performance** by region and product category.
+* Key metrics include **total revenue** and **average order value**, providing a foundational view for sales analysis.
+* **Skills:** Data aggregation, table design, and fundamental business intelligence reporting in Excel.
 
-![tableau NHS dashbored](images/tableau_NHS_dashbored.png)
+---
 
-**Summary:**
-This repository presents a data visualization dashboard exploring various global health metrics, designed to offer comparative insights into population health factors across continents and countries. The dashboard utilizes public health data to visualize trends in body mass index (BMI), life expectancy, and liver cancer rates.
+### 2. Tableau Global Health Metrics Dashboard
 
-![PowerBI dashbored](images/PowerBI_dashbored.png)
-
-**Summary:**
-This repository contains a Power BI dashboard designed to track, analyze, and visualize sales performance metrics against defined targets. The dashboard focuses on key performance indicators KPIs to provide a clear, month-by-month understanding of business execution and variance.
-
-![Azure workbench](images/Azure_workbench.png)
+![Tableau NHS Dashboard](images/tableau_NHS_dashbored.png)
 
 **Summary:**
-This repository documents and explores the management of non-relational data using Microsoft Azure Storage Accounts, specifically focusing on Blob Storage Containers. The project highlights best practices for data organization, security, and access within the Azure ecosystem.
+* This project presents a data visualization dashboard exploring various **global health metrics**.
+* It offers comparative insights into **BMI, life expectancy, and liver cancer rates** across continents.
+* **Skills:** Advanced data visualization, calculating metrics, and dashboard design in Tableau.
+
+---
+
+### 3. Power BI Sales Target Dashboard
+
+![PowerBI Dashboard](images/PowerBI_dashbored.png)
+
+**Summary:**
+* This repository contains a Power BI dashboard designed to track, analyze, and visualize **sales performance metrics** against defined targets.
+* It highlights executive KPIs, including **variance** and **variance margin**, for real-time business monitoring.
+* **Skills:** Business Intelligence (BI) development, KPI calculation, and interactive dashboard creation in Power BI.
+
+---
+
+### 4. Azure Non-Relational Data Management
+
+![Azure Workbench](images/Azure_workbench.png)
+
+**Summary:**
+* This project documents and explores the management of **non-relational data** using **Microsoft Azure Storage Accounts**.
+* It specifically focuses on securing and organizing data within **Blob Storage Containers**.
+* **Skills:** Cloud architecture fundamentals, managing data resources, and access control in Azure.
+
+* ---
+
+* ### 5. SQL Database Query Project: World Capital Population Analysis
 
 ![SQL workbench](images/SQL_workbench.png)
 
 **Summary:**
-This repository contains SQL scripts and documentation related to a database query project focused on analyzing global demographic data. The primary goal of this script is to identify and rank the largest capital cities by population across various countries.
+* This project contains **SQL scripts** designed to analyze global demographic data from a relational database.
+* The core query uses **JOINs** and **ORDER BY** clauses to accurately rank capital cities by population (e.g., Seoul, Jakarta, Moscow).
+* **Skills:** Relational database querying, SQL joins, aliasing, and efficient data extraction.
 
-![python notebook](images/python_notebook.png)
+---
+
+### 6. Python Data Cleaning and Feature Engineering
+
+![Python notebook](images/python_notebook.png)
 
 **Summary:**
-This repository houses a Jupyter Notebook or Python script demonstrating key data manipulation and cleaning techniques using the Pandas library. The project focuses on preparing a dataset of global economic indicators by calculating an average across multiple sources, a common step in data science workflows.
+* This repository houses a **Jupyter Notebook** demonstrating key data manipulation and cleaning techniques using the **Pandas** library.
+* The script focuses on **feature engineering** by calculating a robust average across multiple economic estimates (IMF, World Bank, UN).
+* **Skills:** Python programming, data cleaning, handling NaN values, and feature engineering for analysis readiness.
 
+---
+
+### 7. HR ANALYTICS AND ATTRITION DASHBOARD
+
+![HR Analytics Dashboard](images/HR_ANALYTICS_DASHBOARD.jpg)
+
+**Summary:**
+* This comprehensive **HR Analytics dashboard** provides a visual deep dive into key workforce metrics.
+* It focuses on **attrition rate (16.12%)**, employee demographics (Age, Gender), and job satisfaction to identify retention risks.
+* **Skills:** Domain-specific metrics calculation, advanced visualization, and providing actionable insights for talent management.
