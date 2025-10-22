@@ -1,4 +1,25 @@
 # bootcamp_portfolio
+## 🎓 Data Science & Business Intelligence Bootcamp Portfolio
+
+---
+
+This repository showcases projects completed during an intensive **Data Science and Business Intelligence bootcamp**. It demonstrates proficiency across the entire data lifecycle, from querying and cleaning to advanced visualization and cloud architecture.
+
+### 🔑 Core Skills & Projects
+
+The projects highlight hands-on experience with industry-standard tools across four key areas:
+
+| Category | Project Focus | Key Tools/Languages |
+| :--- | :--- | :--- |
+| **Data Visualization & BI** | Creating executive-level dashboards for **Sales Performance** (Power BI) and **Global Health Metrics** (Tableau) and **HR Analytics** (Tableau). | Power BI, Tableau |
+| **Data Wrangling & Analysis** | Cleaning and transforming complex data, including calculating averages from multiple sources and performing advanced data manipulation. | Python (Pandas) |
+| **Database & Querying** | Designing and executing efficient **SQL queries** for relational databases, demonstrated by joining tables to rank world capitals by population. | SQL |
+| **Cloud & Data Architecture** | Managing and organizing non-relational data, including setting up and securing **Blob Storage Containers** in a cloud environment. | Microsoft Azure |
+
+This portfolio confirms a versatile and practical skill set for driving data-informed decisions across multiple business domains.
+
+
+
 ![Excel Pivot Table](images/excel_pivot_table.png)
 
 **Summary:**
