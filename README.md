@@ -89,14 +89,3 @@ This repository documents the key projects completed during my intensive data sc
 * This repository houses a **Jupyter Notebook** demonstrating key data manipulation and cleaning techniques using the **Pandas** library.
 * The script focuses on **feature engineering** by calculating a robust average across multiple economic estimates (IMF, World Bank, UN).
 * **Skills:** Python programming, data cleaning, handling NaN values, and feature engineering for analysis readiness.
-
----
-
-### 7. HR ANALYTICS AND ATTRITION DASHBOARD
-
-![HR Analytics Dashboard](images/HR_ANALYTICS_DASHBOARD.jpg)
-
-**Summary:**
-* This comprehensive **HR Analytics dashboard** provides a visual deep dive into key workforce metrics.
-* It focuses on **attrition rate (16.12%)**, employee demographics (Age, Gender), and job satisfaction to identify retention risks.
-* **Skills:** Domain-specific metrics calculation, advanced visualization, and providing actionable insights for talent management.
